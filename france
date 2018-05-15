@@ -1,0 +1,4 @@
+SELECT COUNT (*)
+FROM Customer
+where Customer.COUNTRY='France';
+---- solution: 5 ----
