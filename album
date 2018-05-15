@@ -1,0 +1,4 @@
+SELECT COUNT (*)
+FROM Album
+where ALBUM.AlbumId;
+---- solution: 347 ----
